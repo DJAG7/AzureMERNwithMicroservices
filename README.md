@@ -80,4 +80,4 @@ kubectl get ingress
 Once the services are up and running, access the application IP through the browser
 
 
-## Screenshot
+
